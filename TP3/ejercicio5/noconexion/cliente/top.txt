@@ -1,0 +1,2 @@
+Cpu(s): 12.4%us,  3.5%sy,  0.9%ni, 82.3%id,  0.7%wa,  0.0%hi,  0.1%si,  0.0%st
+Mem:   2049700k total,  1914904k used,   134796k free,   665192k buffers

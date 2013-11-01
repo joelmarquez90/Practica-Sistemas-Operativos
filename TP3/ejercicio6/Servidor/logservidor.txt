@@ -1,0 +1,10 @@
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/sda1             37769752   1125480  34725656   4% /
+none                    246144       232    245912   1% /dev
+none                    250368         0    250368   0% /dev/shm
+none                    250368       100    250268   1% /var/run
+none                    250368         0    250368   0% /var/lock
+none                    250368         0    250368   0% /lib/init/rw
+192.168.1.3:/home/alumnos
+                      22105792   5424128  15558720  26% /home/alumnos
+/dev/sdb1               995296    303168    692128  31% /media/usb0
